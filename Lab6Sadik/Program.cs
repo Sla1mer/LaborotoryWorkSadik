@@ -3,7 +3,7 @@
 Console.Write("Введите n: ");
 int n = int.Parse(Console.ReadLine());
 
-Console.WriteLine("Введите x: ");
+Console.Write("Введите x: ");
 double x = double.Parse(Console.ReadLine());
 
 double a, b, c;
