@@ -13,7 +13,6 @@ for (int i = 0; i < arrayBin.Length; i++)
 }
 Console.WriteLine();
 
-int max = Convert.ToInt32(arrayBin[0], 10);
 int avarage = 0;
 
 for (int i = 0; i < arrayBin.Length - 1; i++)
