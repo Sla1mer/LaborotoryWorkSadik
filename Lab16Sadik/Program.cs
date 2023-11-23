@@ -17,7 +17,7 @@ try
     Console.WriteLine("Матрица:");
     Class1.PrintMatrix(matrix);
 
-    Console.WriteLine("\nВектор:");
+    Console.WriteLine("Вектор:");
     Class1.PrintVector(vector);
 
     Console.WriteLine($"\nПроизведение квадратов индексов максимального и минимального элементов вектора: {result}");
