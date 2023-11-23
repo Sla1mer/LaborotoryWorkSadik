@@ -1,5 +1,7 @@
 ﻿using Lab16SadikLibrary;
 
+// Высокий уровень
+// Вариант 19
 try
 {
     Console.Write("Введите n: ");

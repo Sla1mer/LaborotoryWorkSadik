@@ -1,5 +1,6 @@
 ﻿namespace Lab16SadikLibrary;
-
+// Высокий уровень
+// Вариант 19
 public class Class1
 {
     public static int[,] GenerateMatrix(int n, int m)
