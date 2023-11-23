@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab16Sadik", "Lab16Sadik\La
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab16SadikLibrary", "Lab16SadikLibrary\Lab16SadikLibrary.csproj", "{476EA3E6-640C-4B79-ADBE-95512183EFA4}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lab16SadikFolder", "Lab16SadikFolder", "{0B38C3D6-EAA8-4068-8021-BB23FAD49D33}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,5 +29,9 @@ Global
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {40B6430E-3AEE-4D51-B1A6-A3C608C5C262}
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{40332568-9893-4778-A939-A143B9CB788C} = {0B38C3D6-EAA8-4068-8021-BB23FAD49D33}
+		{476EA3E6-640C-4B79-ADBE-95512183EFA4} = {0B38C3D6-EAA8-4068-8021-BB23FAD49D33}
 	EndGlobalSection
 EndGlobal
