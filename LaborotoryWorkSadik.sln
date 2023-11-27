@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab16SadikLibrary", "Lab16S
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lab16SadikFolder", "Lab16SadikFolder", "{0B38C3D6-EAA8-4068-8021-BB23FAD49D33}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lab17SadikFolder", "Lab17SadikFolder", "{486DCC50-CAAB-4E5E-B46A-38642B670545}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab17Sadik", "Lab17Sadik\Lab17Sadik.csproj", "{BC7EA97A-E896-4CB1-B3F6-7F81B5B621A0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,6 +27,10 @@ Global
 		{476EA3E6-640C-4B79-ADBE-95512183EFA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{476EA3E6-640C-4B79-ADBE-95512183EFA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{476EA3E6-640C-4B79-ADBE-95512183EFA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC7EA97A-E896-4CB1-B3F6-7F81B5B621A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC7EA97A-E896-4CB1-B3F6-7F81B5B621A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC7EA97A-E896-4CB1-B3F6-7F81B5B621A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC7EA97A-E896-4CB1-B3F6-7F81B5B621A0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -33,5 +41,6 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{40332568-9893-4778-A939-A143B9CB788C} = {0B38C3D6-EAA8-4068-8021-BB23FAD49D33}
 		{476EA3E6-640C-4B79-ADBE-95512183EFA4} = {0B38C3D6-EAA8-4068-8021-BB23FAD49D33}
+		{BC7EA97A-E896-4CB1-B3F6-7F81B5B621A0} = {486DCC50-CAAB-4E5E-B46A-38642B670545}
 	EndGlobalSection
 EndGlobal
