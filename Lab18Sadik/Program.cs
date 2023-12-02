@@ -1,4 +1,7 @@
-﻿using System.Globalization;
+﻿// Средний уровень
+// 2 вариант
+
+using System.Globalization;
 
 try
 {
