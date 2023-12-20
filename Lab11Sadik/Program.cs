@@ -11,7 +11,7 @@ for (int i = 0; i < arrayBin.Length; i++)
 
     Console.Write(arrayBin[i] + " ");
 }
-Console.WriteLine();
+Console.WriteLine(); 
 
 int avarage = 0;
 

@@ -3,21 +3,23 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32922.545
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab16Sadik", "Lab16Sadik\Lab16Sadik.csproj", "{40332568-9893-4778-A939-A143B9CB788C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab16Sadik", "Lab16Sadik\Lab16Sadik.csproj", "{40332568-9893-4778-A939-A143B9CB788C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab16SadikLibrary", "Lab16SadikLibrary\Lab16SadikLibrary.csproj", "{476EA3E6-640C-4B79-ADBE-95512183EFA4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab16SadikLibrary", "Lab16SadikLibrary\Lab16SadikLibrary.csproj", "{476EA3E6-640C-4B79-ADBE-95512183EFA4}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lab16SadikFolder", "Lab16SadikFolder", "{0B38C3D6-EAA8-4068-8021-BB23FAD49D33}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lab17SadikFolder", "Lab17SadikFolder", "{486DCC50-CAAB-4E5E-B46A-38642B670545}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab17Sadik", "Lab17Sadik\Lab17Sadik.csproj", "{BC7EA97A-E896-4CB1-B3F6-7F81B5B621A0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab17Sadik", "Lab17Sadik\Lab17Sadik.csproj", "{BC7EA97A-E896-4CB1-B3F6-7F81B5B621A0}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lab18SadikFolder", "Lab18SadikFolder", "{97313229-5751-497B-9145-353CFC713360}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab18Sadik", "Lab18Sadik\Lab18Sadik.csproj", "{BFC9397E-3871-4EA8-995B-CC53402D5BA4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab18Sadik", "Lab18Sadik\Lab18Sadik.csproj", "{BFC9397E-3871-4EA8-995B-CC53402D5BA4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab19Sadik", "Lab19Sadik\Lab19Sadik.csproj", "{79950C67-189E-43CA-9255-23F6CDB994B0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab19Sadik", "Lab19Sadik\Lab19Sadik.csproj", "{79950C67-189E-43CA-9255-23F6CDB994B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab20Sadik", "Lab20Sadik\Lab20Sadik.csproj", "{0F018838-E0D6-486B-8DA0-75D567D300F1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,17 +47,21 @@ Global
 		{79950C67-189E-43CA-9255-23F6CDB994B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{79950C67-189E-43CA-9255-23F6CDB994B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{79950C67-189E-43CA-9255-23F6CDB994B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F018838-E0D6-486B-8DA0-75D567D300F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F018838-E0D6-486B-8DA0-75D567D300F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F018838-E0D6-486B-8DA0-75D567D300F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F018838-E0D6-486B-8DA0-75D567D300F1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {40B6430E-3AEE-4D51-B1A6-A3C608C5C262}
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{40332568-9893-4778-A939-A143B9CB788C} = {0B38C3D6-EAA8-4068-8021-BB23FAD49D33}
 		{476EA3E6-640C-4B79-ADBE-95512183EFA4} = {0B38C3D6-EAA8-4068-8021-BB23FAD49D33}
 		{BC7EA97A-E896-4CB1-B3F6-7F81B5B621A0} = {486DCC50-CAAB-4E5E-B46A-38642B670545}
 		{BFC9397E-3871-4EA8-995B-CC53402D5BA4} = {97313229-5751-497B-9145-353CFC713360}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {40B6430E-3AEE-4D51-B1A6-A3C608C5C262}
 	EndGlobalSection
 EndGlobal
